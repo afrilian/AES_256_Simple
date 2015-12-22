@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AES256Demo
 ==========
 
@@ -23,3 +24,6 @@ java默认最多支持aes128.
 
 详情请参见博文：
 [Android中AES256加密的实现](http://leochin.com/android-aes256/)
+=======
+# AES_256_Simple
+>>>>>>> c78aa1b75d82d468649a9ebc1e51d0258f4b4e88
